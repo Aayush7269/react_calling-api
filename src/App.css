@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;}
+
+
+.wrapper{
+min-height: 100vh;
+
+}
+.search-form,.ListContainer{
+  background: black;
+  padding: 2rem;
+  border-radius: 10px;
+}
